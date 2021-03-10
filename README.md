@@ -3,7 +3,7 @@
 ![Demo Result](https://github.com/kranok-dev/Optical_Flow/blob/main/result_image.png?raw=true)
 
 **Description**                                                               
-> Simple application doing Lucas-Kanade Optical Flow from "scratch" on a traffic video.
+> Simple application doing Lucas-Kanade's Optical Flow from "scratch" on a traffic video.
 
 > This work is based on Khushboo Agarwal's code:
 > https://github.com/khushboo-agarwal/Optical-Flow
