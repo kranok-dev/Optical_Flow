@@ -28,5 +28,6 @@ $ python3 app.py
 
 > Try the demo implemented, test other videos, and have fun!
 
-**Demo Video**
+**Demo Videos**
 > https://www.youtube.com/watch?v=BpSAWhDre3w
+> https://www.youtube.com/watch?v=YoD8oG8Jwfw
