@@ -30,4 +30,4 @@ $ python3 app.py
 
 **Demo Videos**
 > https://www.youtube.com/watch?v=BpSAWhDre3w
-  https://www.youtube.com/watch?v=YoD8oG8Jwfw
+> https://www.youtube.com/watch?v=YoD8oG8Jwfw
